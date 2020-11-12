@@ -2,7 +2,6 @@ package com.cy.mybatisplus.demo.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.cy.mybatisplus.demo.pojo.User;
-import lombok.Data;
 import org.springframework.stereotype.Repository;
 
 /**
