@@ -1,7 +1,7 @@
-package com.cy.mybatisplus.demo.mapper;
+package com.cy.mybatis.plus.demo.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.cy.mybatisplus.demo.pojo.User;
+import com.cy.mybatis.plus.demo.pojo.User;
 import org.springframework.stereotype.Repository;
 
 /**

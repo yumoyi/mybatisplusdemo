@@ -1,7 +1,7 @@
-package com.cy.mybatisplus.demo;
+package com.cy.mybatis.plus.demo;
 
-import com.cy.mybatisplus.demo.mapper.UserMapper;
-import com.cy.mybatisplus.demo.pojo.User;
+import com.cy.mybatis.plus.demo.mapper.UserMapper;
+import com.cy.mybatis.plus.demo.pojo.User;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import java.util.List;
 
 @SpringBootTest
-class MybatisplusdemoApplicationTests {
+class MybatisPlusDemoApplicationTests {
 
     @Autowired
     private UserMapper userMapper;

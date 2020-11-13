@@ -1,4 +1,4 @@
-package com.cy.mybatisplus.demo.pojo;
+package com.cy.mybatis.plus.demo.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
